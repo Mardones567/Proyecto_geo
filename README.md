@@ -4,4 +4,4 @@ Datos del censo : https://www.ine.gob.cl/herramientas/portal-de-mapas/geodatos-a
 
 
 Acceso a los datos crudos, como son privados debe solicitar permiso para descargarlo : https://drive.google.com/file/d/12VoavAOfokVyiy3Wo6WheDrL8hpqv3cj/view?usp=sharing
-
+Datos de techo: https://cl.techo.org/catastro/
